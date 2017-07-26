@@ -1,0 +1,14 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "author": "Ali MOHAMED",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
